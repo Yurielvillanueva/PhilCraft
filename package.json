@@ -1,0 +1,16 @@
+{
+  "name": "philbot",
+  "version": "1.0.0",
+  "description": "Mybot",
+  "main": "index.js",
+  "scripts": {
+    "start": "python discord_bot.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.17.1"
+  }
+}
